@@ -77,7 +77,7 @@ Installation
         
             $ mv vim-colors-solarized ~/.vim/bundle/
 
-### Modify .vimrc
+### Modify .vimrc (path /etc/vimrc)
 
 After either Option 1 or Option 2 above, put the following two lines in your 
 .vimrc:
