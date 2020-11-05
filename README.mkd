@@ -57,7 +57,7 @@ Installation
     
     New way :
      
-        $ curl -O https://raw.githubusercontent.com/ly19811105/vim-colors-solarized/master/colors/solarized.vim && mv solarized.vim ~/.vim/colors/
+        $ curl -O https://raw.githubusercontent.com/ly19811105/vim-colors-solarized/master/colors/solarized.vim && mv solarized.vim /usr/share/vim/vim74/colors/
         
 ### Option 2: Pathogen installation ***(recommended)***
 
