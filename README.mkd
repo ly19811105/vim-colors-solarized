@@ -51,7 +51,12 @@ Installation
 
 1.  Move `solarized.vim` to your `.vim/colors` directory. After downloading the 
     vim script or package:
-
+    My add option
+    
+        $ curl -O https://raw.githubusercontent.com/ly19811105/vim-colors-solarized/master/colors/solarized.vim && mv solarized.vim ~/.vim/colors/
+        
+    Original option   
+    
         $ cd vim-colors-solarized/colors
         $ mv solarized.vim ~/.vim/colors/
 
