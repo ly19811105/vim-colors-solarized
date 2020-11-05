@@ -54,7 +54,11 @@ Installation
 
         $ cd vim-colors-solarized/colors
         $ mv solarized.vim ~/.vim/colors/
-
+    
+    New way :
+     
+        $ curl -O https://raw.githubusercontent.com/ly19811105/vim-colors-solarized/master/colors/solarized.vim && mv solarized.vim ~/.vim/colors/
+        
 ### Option 2: Pathogen installation ***(recommended)***
 
 1.  Download and install Tim Pope's [Pathogen].
